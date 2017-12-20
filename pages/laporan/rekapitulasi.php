@@ -125,7 +125,11 @@ session_start();
     <td class="tg-baqh"></td>
   </tr>
   <tr>
-    <td class="tg-yw4l" colspan="2">B. TRIDHARMA PERGURUAN TINGGI <br/> a. Melaksanakan Pendidikan dan Pengajaran</td>
+    <td class="tg-yw4l" colspan="2">B. TRIDHARMA PERGURUAN TINGGI 
+	<br/> a. Melaksanakan Pendidikan dan Pengajaran
+	<br/> b. Melaksanakan Penelitian
+	<br/> c. Melaksanakan Pengabdian Kepada Masyarakat
+	</td>
     <td class="tg-baqh"></td>
     <td class="tg-baqh"></td>
     <td class="tg-baqh"></td>
