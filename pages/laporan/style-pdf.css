@@ -269,11 +269,12 @@ input.angkaR {
 	font-size:12px;
 }
 .headtab {
-	
+	padding:0px;
+	margin-left:-20px;
 }
-.headtab  td{
-	padding: 0 0px 0 10px;
-	line-height:10px;
+.headtab  td{ 
+	padding: 2px 0px 2px 10px;
+	line-height:14px;
 }
 .g3 {
 	font-size:24px;
