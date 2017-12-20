@@ -117,7 +117,7 @@ session_start();
     <td class="tg-baqh">JUMLAH</td>
   </tr>
   <tr>
-    <td class="tg-yw4l" rowspan="3"></td>
+    <td class="tg-yw4l" rowspan="3">1.</td>
     <td class="tg-yw4l" colspan="2"> UNSUR UTAMA <br/> A. PENDIDIKAN</td>
     <td class="tg-baqh"></td>
     <td class="tg-baqh"></td>
@@ -136,31 +136,31 @@ session_start();
     <td class="tg-baqh"></td>
   </tr>
   <tr>
-    <td class="tg-baqh" colspan="2"></td>
+    <td class="tg-baqh" colspan="2">JUMLAH</td>
     <td class="tg-baqh"></td>
     <td class="tg-baqh"></td>
     <td class="tg-baqh"></td>
     <td class="tg-baqh"></td>
   </tr>
   <tr>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l" colspan="2"></td>
+    <td class="tg-yw4l">2.</td>
+    <td class="tg-yw4l" colspan="2">UNSUR PENUNJANG <br/> Melaksanakan Penunjang Tugas Pokok Dosen</td>
     <td class="tg-baqh"></td>
     <td class="tg-baqh"></td>
     <td class="tg-baqh"></td>
     <td class="tg-baqh"></td>
   </tr>
   <tr>
-    <td class="tg-baqh" colspan="4"></td>
+    <td class="tg-baqh" colspan="4">JUMLAH UNSUR UTAMA DAN UNSUR PENUNJANG</td>
     <td class="tg-baqh"></td>
     <td class="tg-baqh"></td>
     <td class="tg-baqh"></td>
     <td class="tg-baqh"></td>
   </tr>
   <tr>
-    <td class="tg-baqh"></td>
-    <td class="tg-yw4l" colspan="5"></td>
-    <td class="tg-yw4l" colspan="2"></td>
+    <td class="tg-baqh">III</td>
+    <td class="tg-yw4l" colspan="5">DAPAT DIANGKAT DALAM JABATAN: </td>
+    <td class="tg-yw4l" colspan="2">TMT.: 01 Mei 2016</td>
   </tr>
 </table>
 <?php include('footer.php');
