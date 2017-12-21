@@ -26,17 +26,17 @@ session_start();
 <table class="tisi">
   <tr>
   	<th rowspan="2">NO.</th>
-		<th rowspan="2" width="400">NAMA JUDUL KARYA ILMIAH (UNSUR)</th>
-		<th width="150">SUB UNSUR</th>
-		<th colspan="2" width="300">ANGKA KREDIT MENURUT</th>
+		<th rowspan="2" width="150">NAMA JUDUL KARYA ILMIAH (UNSUR)</th>
+		<th width="50">SUB UNSUR</th>
+		<th colspan="2" width="200">ANGKA KREDIT MENURUT</th>
 		<th rowspan="2" width="100">KET/BUKTI FISIK</th>
   </tr>
 	<tr>
-		<th>NILAI ANGKA KREDIT</th>
-		<th width="200">
+		<th width="60">NILAI ANGKA KREDIT</th>
+		<th width="100">
 			DIRJEN DIKTI / REKTOR / UNIV / INSTITUT / SEK.TINGGI / DIREKTUR AKADEMI / POLITEKNIK
 		</th>
-		<th width="150">TIM PENILAI PUSAT/PTN/PTS</th>
+		<th width="50">TIM PENILAI PUSAT/PTN/PTS</th>
   </tr>
 	<tr>
   	<th>1</th>
@@ -49,19 +49,19 @@ session_start();
 	<tr class="g5">
 		<td class="tisi-baqh bold">1</td>
 		<td>
-			Arief Noviarakhman Zagladi (2007)
-			Arti Penting Unsur Keadilan Dalam
-			Organisasi
+			Arief Noviarakhman Zagladi (2007)<br/>
+			Arti Penting Unsur Keadilan<br/> Dalam
+			Organisasi<br/>
 			Laporan Penelitian Dipublikasikan
 		</td>
 		<td class="tisi-baqh bold" align="center">10</td>
 		<td> </td>
 		<td> </td>
 		<td>
-			Jurnal Wawasan
-			Kopertis Wilayah XI
-			Volume 13 Nomor 3
-			Desember 2007
+			Jurnal Wawasan<br/>
+			Kopertis Wilayah XI<br/>
+			Volume 13 Nomor 3<br/>
+			Desember 2007<br/>
 			ISSN : 14411-4267</td>
 	</tr>
 	<tr class="g5">
@@ -69,19 +69,19 @@ session_start();
 			2
 		</td>
 		<td>
-			Arief Noviarakhman Zagladi (2007)
-			Arti Penting Unsur Keadilan Dalam
-			Organisasi
+			Arief Noviarakhman Zagladi (2007)<br/>
+			Arti Penting Unsur Keadilan <br/>Dalam
+			Organisasi<br/>
 			Laporan Penelitian Dipublikasikan
 		</td>
 		<td class="tisi-baqh bold" align="center">10</td>
 		<td> </td>
 		<td> </td>
 		<td>
-			Jurnal Wawasan
-			Kopertis Wilayah XI
-			Volume 13 Nomor 3
-			Desember 2007
+			Jurnal Wawasan<br/>
+			Kopertis Wilayah XI<br/>
+			Volume 13 Nomor 3<br/>
+			Desember 2007<br/>
 			ISSN : 14411-4267</td>
 	</tr>
 	<tr class="g5">
@@ -89,19 +89,19 @@ session_start();
 			3
 		</td>
 		<td>
-			Arief Noviarakhman Zagladi (2007)
-			Arti Penting Unsur Keadilan Dalam
-			Organisasi
+			Arief Noviarakhman Zagladi (2007)<br/>
+			Arti Penting Unsur Keadilan <br/>Dalam
+			Organisasi<br/>
 			Laporan Penelitian Dipublikasikan
 		</td>
 		<td class="tisi-baqh bold" align="center">10</td>
 		<td> </td>
 		<td> </td>
 		<td>
-			Jurnal Wawasan
-			Kopertis Wilayah XI
-			Volume 13 Nomor 3
-			Desember 2007
+			Jurnal Wawasan<br/>
+			Kopertis Wilayah XI<br/>
+			Volume 13 Nomor 3<br/>
+			Desember 2007<br/>
 			ISSN : 14411-4267</td>
 	</tr>
 	<tr class="g5">
@@ -109,19 +109,19 @@ session_start();
 			4
 		</td>
 		<td>
-			Arief Noviarakhman Zagladi (2007)
-			Arti Penting Unsur Keadilan Dalam
-			Organisasi
+			Arief Noviarakhman Zagladi (2007)<br/>
+			Arti Penting Unsur Keadilan<br/> Dalam
+			Organisasi<br/>
 			Laporan Penelitian Dipublikasikan
 		</td>
 		<td class="tisi-baqh bold" align="center">10</td>
 		<td> </td>
 		<td> </td>
 		<td>
-			Jurnal Wawasan
-			Kopertis Wilayah XI
-			Volume 13 Nomor 3
-			Desember 2007
+			Jurnal Wawasan<br/>
+			Kopertis Wilayah XI<br/>
+			Volume 13 Nomor 3<br/>
+			Desember 2007<br/>
 			ISSN : 14411-4267</td>
 	</tr>
 	<tr class="g5">
@@ -129,19 +129,19 @@ session_start();
 			5
 		</td>
 		<td>
-			Arief Noviarakhman Zagladi (2007)
-			Arti Penting Unsur Keadilan Dalam
-			Organisasi
+			Arief Noviarakhman Zagladi (2007)<br/>
+			Arti Penting Unsur Keadilan<br/> Dalam
+			Organisasi<br/>
 			Laporan Penelitian Dipublikasikan
 		</td>
 		<td class="tisi-baqh bold" align="center">10</td>
 		<td> </td>
 		<td> </td>
 		<td>
-			Jurnal Wawasan
-			Kopertis Wilayah XI
-			Volume 13 Nomor 3
-			Desember 2007
+			Jurnal Wawasan<br/>
+			Kopertis Wilayah XI<br/>
+			Volume 13 Nomor 3<br/>
+			Desember 2007<br/>
 			ISSN : 14411-4267</td>
 	</tr>
 	<tr class="g5">
