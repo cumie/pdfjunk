@@ -1,19 +1,20 @@
 <?php
 $now = date("Y-m-d");
 		// $SQL = "SELECT tunitkerja.* FROM tunitkerja WHERE id_unitkerja=".$_SESSION['4XE']." ";
-		// $myQry = mysqli_query($koneksidb, $SQL)  or die ("Query Lurah : ".mysqli_error($koneksidb)); 
-		// $datane = mysqli_fetch_array($myQry); 
+		// $myQry = mysqli_query($koneksidb, $SQL)  or die ("Query Lurah : ".mysqli_error($koneksidb));
+		// $datane = mysqli_fetch_array($myQry);
 		// $today = date("Y-m-d");
 ?>
-<link href="style-pdf.css" rel="stylesheet" type="text/css" /> 
+<link href="style-pdf.css" rel="stylesheet" type="text/css" />
 
-<table class="tk">
+<table class="tha" border="0">
 	<tbody>
 		<tr>
-			<td width="440" align="right" rowspan="6">LAMPIRAN II</td>
-			<td colspan="3">KEPUTUSAN BERSAMA MENTERI</td>
+			<td width="500" align="right" rowspan="0">LAMPIRAN II</td>
+			<td width="120" colspan="3">KEPUTUSAN BERSAMA MENTERI</td>
 		</tr>
 		<tr>
+			<td width="" align="right" rowspan="5"></td>
 			<td colspan="3">PENDIDIKAN DAN KEBUDAYAAN DAN</td>
 		</tr>
 		<tr>
@@ -40,23 +41,23 @@ $now = date("Y-m-d");
 
 <table class="headtab" align="center" width="760" border="0">
   <tr>
-    <td width="700" colspan="2" align="center"><h4>SURAT PERNYATAAN</h4></td> 
-  </tr> 
+    <td width="700" colspan="2" align="center"><h4>SURAT PERNYATAAN</h4></td>
+  </tr>
   <tr>
-    <td width="700" colspan="2" align="center"><h4>MELAKUKAN KEGIATAN PENDIDIKAN DAN PENGAJARAN</h4></td> 
-  </tr> 
-   
+    <td width="700" colspan="2" align="center"><h4>MELAKUKAN KEGIATAN PENDIDIKAN DAN PENGAJARAN</h4></td>
+  </tr>
+
   <tr>
   <td width="220" align="right"> </td>
   <td>  </td>
   </tr>
-  
-  
+
+
   </table>
-<table class="tk">
+<table class="thap" border="0">
 	<tbody>
 		<tr>
-			<td width="180" colspan="2">Yang Bertanda tangan dibawah ini</td>
+			<td width="250" colspan="2">Yang Bertanda tangan dibawah ini</td>
 			<td width="5">:</td>
 			<td width="420"></td>
 		</tr>
@@ -122,4 +123,4 @@ $now = date("Y-m-d");
 		</tr>
 	</tbody>
 </table>
-<br/> 
+<br/>
