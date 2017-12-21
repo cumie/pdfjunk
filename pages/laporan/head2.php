@@ -57,35 +57,36 @@ $now = date("Y-m-d");
 <table class="thap" border="0">
 	<tbody>
 		<tr>
-			<td width="250" colspan="2">Yang Bertanda tangan dibawah ini</td>
+			<td width="10" rowspan="12"></td>
+			<td width="20" colspan="2">Yang Bertanda tangan dibawah ini</td>
 			<td width="5">:</td>
-			<td width="420"></td>
+			<td width="1050"></td>
 		</tr>
 		<tr>
 			<td width="10" rowspan="5"></td>
-			<td>Nama</td>
+			<td width="50">Nama</td>
 			<td>:</td>
-			<td></td>
+			<td><b>SUTRISNO,SE, MM</b></td>
 		</tr>
 		<tr>
 			<td>NIP / NIK </td>
 			<td>:</td>
-			<td></td>
+			<td>19670512 200501 1 001</td>
 		</tr>
 		<tr>
 			<td>Pangkat / Golongan Ruang</td>
 			<td>:</td>
-			<td></td>
+			<td>Penata, III/c</td>
 		</tr>
 		<tr>
 			<td>Jabatan Fungsional</td>
 			<td>:</td>
-			<td></td>
+			<td>Lektor (300)</td>
 		</tr>
 		<tr>
 			<td>Unit Kerja</td>
 			<td>:</td>
-			<td></td>
+			<td>STIE PANCA Setia Banjarmasin</td>
 		</tr>
 		<tr>
 			<td colspan="2">Menyatakan bahwa</td>
@@ -96,27 +97,27 @@ $now = date("Y-m-d");
 			<td rowspan="5"></td>
 			<td>Nama</td>
 			<td>:</td>
-			<td></td>
+			<td><b>ARIEF NOVIARAKHMAN ZAGLADI, SE, MM</b></td>
 		</tr>
 		<tr>
 			<td>NIP / NIK </td>
 			<td>:</td>
-			<td></td>
+			<td>1107118301</td>
 		</tr>
 		<tr>
 			<td>Pangkat / Golongan Ruang</td>
 			<td>:</td>
-			<td></td>
+			<td>-</td>
 		</tr>
 		<tr>
 			<td>Jabatan Fungsional</td>
 			<td>:</td>
-			<td></td>
+			<td>Asisten Ahli (100), 1 September 2007</td>
 		</tr>
 		<tr>
 			<td>Unit Kerja</td>
 			<td>:</td>
-			<td></td>
+			<td>STIE PANCA Setia Banjarmasin</td>
 		</tr>
 		<tr>
 			<td colspan="4">Telah melakukan kegiatan Pendidikan dan Pengajaran sebagai berikut :</td>
