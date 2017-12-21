@@ -10,7 +10,7 @@ $now = date("Y-m-d");
 <table class="tha" border="0">
 	<tbody>
 		<tr>
-			<td width="500" align="right" rowspan="">LAMPIRAN IV</td>
+			<td width="500" align="right" >LAMPIRAN IV</td>
 			<td width="120" colspan="3">KEPUTUSAN BERSAMA MENTERI</td>
 		</tr>
 		<tr>

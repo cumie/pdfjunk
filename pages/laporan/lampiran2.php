@@ -45,7 +45,7 @@ session_start();
 	<tr class="g5">
     <td class="tisi-baqh bold">A.</td>
     <td>
-			<b><u>Kegiatan Pendidikan</u>
+			 <u>Kegiatan Pendidikan</u>
 		</td>
 		<td> </td>
 		<td> </td>
@@ -77,9 +77,7 @@ session_start();
 
   <tr class="g5">
     <td class="tisi-baqh bold">B.</td>
-    <td>
-      <b><u>Kegiatan Pengajaran</u>
-    </td>
+    <td> <u>Kegiatan Pengajaran</u> </td>
     <td> </td>
     <td> </td>
     <td> </td>
@@ -88,8 +86,7 @@ session_start();
 
   <tr class="g5">
     <td class="tisi-baqh bold"> </td>
-    <td>
-      <b><u>Melaksanakan Perkuliahan</u>
+    <td> <u>Melaksanakan Perkuliahan</u>
     </td>
     <td> </td>
     <td> </td>
@@ -317,5 +314,5 @@ session_start();
   </tr>
 
 </table>
-<?php include('footer3.php');
+<?php include('footer2.php');
 ?>
