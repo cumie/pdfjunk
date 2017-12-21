@@ -1,6 +1,6 @@
 <table class="tfa" >
   <tr>
-    <td class="thaka" width="470"></td>
+    <td class="thaka" width="400"></td>
     <td width="60">&nbsp;</td>
     <td width="150" align="left"></td>
   </tr>
