@@ -144,6 +144,16 @@ session_start();
 			Desember 2007
 			ISSN : 14411-4267</td>
 	</tr>
+	<tr class="g5">
+		<td class="tisi-baqh bold"> </td>
+		<td>
+			Jumlah
+		</td>
+		<td class="tisi-baqh bold" align="center">50</td>
+		<td> </td>
+		<td> </td>
+		<td> </td>
+	</tr>
 </table>
 <?php include('footer3.php');
 ?>
