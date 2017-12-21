@@ -10,7 +10,7 @@ $now = date("Y-m-d");
 <table class="tha" border="0">
 	<tbody>
 		<tr>
-			<td width="500" align="right" rowspan="">LAMPIRAN IV</td>
+			<td width="500" align="right" rowspan="">LAMPIRAN V</td>
 			<td width="120" colspan="3">KEPUTUSAN BERSAMA MENTERI</td>
 		</tr>
 		<tr>
@@ -59,7 +59,7 @@ $now = date("Y-m-d");
 			<td width="10" rowspan="12"></td>
 			<td width="20" colspan="2">Yang Bertanda tangan dibawah ini</td>
 			<td width="5">:</td>
-			<td width="810"></td>
+			<td width="1050"></td>
 		</tr>
 		<tr>
 			<td width="10" rowspan="5"></td>
@@ -125,10 +125,10 @@ $now = date("Y-m-d");
 	<tr>
 		<td width="20">&nbsp;</td>
 		<td width="50" colspan="2">
-			Telah Melakukan kegiatan Pengabdian pada Masyarakat sebagai berikut
+			Telah Melakukan kegiatan Penunjang Tri Dharma Perguruan Tinggi sebagai berikut
 		</td>
 		<td width="5">:</td>
-		<td width="640"></td>
+		<td width="840"></td>
 	</tr>
 </table>
 <br/>
