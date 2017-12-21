@@ -1,8 +1,8 @@
-<table class="headtab" align="center" width="980" border="0">
+<table class="headtab" align="center" width="680" border="0">
   <tr>
-    <td width="400">*) Coret yang Bungas</td>
-    <td width="250">&nbsp;</td>
-    <td width="250" align="left"></td>
+    <td width="300">*) Coret yang Bungas</td>
+    <td width="80">&nbsp;</td>
+    <td width="150" align="left"></td>
   </tr>    
   <tr> 
     <td rowspan="8">&nbsp;</td>

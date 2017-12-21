@@ -5,21 +5,15 @@ $now = date("Y-m-d");
 		// $datane = mysqli_fetch_array($myQry); 
 		// $today = date("Y-m-d");
 ?>
-<link href="style-pdf.css" rel="stylesheet" type="text/css" />
-<br>
-<table class="table" align="left" width="990" border="0"> 
+<link href="style-pdf.css" rel="stylesheet" type="text/css" /> 
+<table class="headtab" align="center" width="760" border="0">
   <tr>
-    <td width="400" rowspan="3" align="center">&nbsp; </td>
-    <td width="550" align="right"><h3> Dinas Perikanan Pemerintah Kabupaten Balangan</h3></td>
+    <td width="700" colspan="2" align="center"><h4>PENETAPAN ANGKA KREDIT</h4></td> 
   </tr> 
-  <tr>
-  <th align="right">Komplek Pemerintahan Kabupaten Balangan, no 12 Paringin, Balangan
-  </th>
-  </tr>
-  <tr>
-  <td align="right">Telp.(0517) 239993 Fax : (0517) 239993 email :diskanbalangan@gmail.com
-  </td>
-  </tr>
    
-</table>
-<br/>
+  <tr>
+  <td width="220" align="right">TANGGAL PENILAIAN:</td>
+  <td> TGL. 1 September 2017 S/D TGL. 30 APRIL 2017</td>
+  </tr>
+  </table>
+<br/> 

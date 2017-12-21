@@ -18,34 +18,19 @@ session_start();
 	// $data[$i] = $dataShow[$field[$i]];
 // }
 // } // Penutup GET
-?>  
-<link href="style-pdf.css" rel="stylesheet" type="text/css" /> 
+?>   
 
-<?php // include('head.php');
+<?php include('head.php');
 ?>
-<table class="table-main" >
-  <tr>
-    <td width="980" colspan="2" align="center"><h4>PENETAPAN ANGKA KREDIT</h4></td> 
-  </tr> 
-   
-  <tr>
-  <td >TANGGAL PENILAIAN:</td>
-  <td> TGL. 1 September 2017 S/D TGL. 30 APRIL 2017</td>
-  </tr>
-  </table>
-<br/>
  
-	
-	<br/>
-	
 <table class="tg"> 
   <tr>
-    <th width="20" class="tg-baqh" rowspan="14">I</th>
-    <th width="920" class="tg-baqh" colspan="7">KETERANGAN PERORANGAN</th>
+    <th width="10" class="tg-baqh" rowspan="14">I</th>
+    <th width="550" class="tg-baqh" colspan="7">KETERANGAN PERORANGAN</th>
   </tr>
   <tr>
-    <td class="tg-yw4l">1.</td>
-    <td class="tg-yw4l" colspan="2">Nama</td>
+    <td class="tg-yw4l" width="10">1.</td>
+    <td class="tg-yw4l" width="160"	colspan="2">Nama</td>
     <td class="tg-yw4l" colspan="4">FATHUL HAFIDH, S.Kom., M.Kom</td>
   </tr>
   <tr>
