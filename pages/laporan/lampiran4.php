@@ -20,18 +20,18 @@ session_start();
 // } // Penutup GET
 ?>
 
-<?php include('head4.php');
+<?php include('head42.php');
 ?>
 
 <table class="tisi">
   <tr>
   	<th>NO.</th>
-		<th width="400">KEGIATAN PENGABDIAN PADA MASYARAKAT</th>
-		<th width="150">BENTUK</th>
-		<th width="300">TEMPAT/INSTANSI</th>
-		<th width="100">TANGGAL</th>
-    <th width="100">JML. ANGKA KREDIT</th>
-    <th width="100">KETERANGAN</th>
+		<th width="160">KEGIATAN PENGABDIAN PADA MASYARAKAT</th>
+		<th width="60">BENTUK</th>
+		<th width="100">TEMPAT/INSTANSI</th>
+		<th width="50">TANGGAL</th>
+    <th width="50">JML. ANGKA KREDIT</th>
+    <th width="50">KETERANGAN</th>
   </tr>
 	<tr>
   	<th>1</th>
@@ -45,7 +45,7 @@ session_start();
 	<tr class="g5">
 		<td class="tisi-baqh bold"></td>
 		<td>
-			<b><u>Memberi Penyuluhan Kepada Masyarakan</u></b>
+			<b><u>Memberi Penyuluhan<br/> Kepada Masyarakat</u></b>
 		</td>
 		<td> </td>
 		<td> </td>
@@ -56,13 +56,13 @@ session_start();
 	<tr class="g5">
 		<td class="tisi-baqh bold">1</td>
 		<td>
-			Memberi Penyuluhan Mengenai Manajemen
-			Pemasaran Pada program Pelatihan Kerja
-			Berbasis Masyarakat Melalui Terapan
-			Teknologi Tepat Guna
+			Memberi Penyuluhan<br/> Mengenai Manajemen<br/>
+			Pemasaran Pada program<br/> Pelatihan Kerja<br/>
+			Berbasis Masyarakat<br/> Melalui Terapan<br/>
+			Teknologi Tepat Guna<br/>
 		</td>
 		<td class="tisi-baqh" align="center">Penyuluhan</td>
-		<td class="tisi-yw4l">Desa Tambak Danau Kec. Astambul Kab. Banjar Kalsel</td>
+		<td class="tisi-yw4l">Desa Tambak Danau<br/> Kec. Astambul<br/> Kab. Banjar Kalsel</td>
 		<td class="tisi-yw4l">28 Oktober 2010</td>
   	<td class="tisi-baqh">1</td>
     <td class="tisi-yw4l">Laporan Terlampir</td>
@@ -70,13 +70,13 @@ session_start();
   <tr class="g5">
 		<td class="tisi-baqh bold">2</td>
 		<td>
-			Memberi Penyuluhan Mengenai Manajemen
-			Pemasaran Pada program Pelatihan Kerja
-			Berbasis Masyarakat Melalui Terapan
-			Teknologi Tepat Guna
+			Memberi Penyuluhan<br/> Mengenai Manajemen<br/>
+			Pemasaran Pada program<br/> Pelatihan Kerja<br/>
+			Berbasis Masyarakat<br/> Melalui Terapan<br/>
+			Teknologi Tepat Guna<br/>
 		</td>
 		<td class="tisi-baqh" align="center">Penyuluhan</td>
-		<td class="tisi-yw4l">Desa Tambak Danau Kec. Astambul Kab. Banjar Kalsel</td>
+		<td class="tisi-yw4l">Desa Tambak Danau<br/> Kec. Astambul<br/> Kab. Banjar Kalsel</td>
 		<td class="tisi-yw4l">28 Oktober 2010</td>
   	<td class="tisi-baqh">1</td>
     <td class="tisi-yw4l">Laporan Terlampir</td>
@@ -84,17 +84,17 @@ session_start();
   <tr class="g5">
 		<td class="tisi-baqh bold">3</td>
 		<td>
-			Memberi Penyuluhan Mengenai Manajemen
-			Pemasaran Pada program Pelatihan Kerja
-			Berbasis Masyarakat Melalui Terapan
-			Teknologi Tepat Guna
+			Memberi Penyuluhan<br/> Mengenai Manajemen<br/>
+			Pemasaran Pada program<br/> Pelatihan Kerja<br/>
+			Berbasis Masyarakat<br/> Melalui Terapan<br/>
+			Teknologi Tepat Guna<br/>
 		</td>
 		<td class="tisi-baqh" align="center">Penyuluhan</td>
-		<td class="tisi-yw4l">Desa Tambak Danau Kec. Astambul Kab. Banjar Kalsel</td>
+		<td class="tisi-yw4l">Desa Tambak Danau<br/> Kec. Astambul<br/> Kab. Banjar Kalsel</td>
 		<td class="tisi-yw4l">28 Oktober 2010</td>
   	<td class="tisi-baqh">1</td>
     <td class="tisi-yw4l">Laporan Terlampir</td>
 	</tr>
 </table>
-<?php include('footer4.php');
+<?php include('footer42.php');
 ?>

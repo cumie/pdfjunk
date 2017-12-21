@@ -45,7 +45,7 @@ $now = date("Y-m-d");
     <td width="700" colspan="2" align="center"><h4>SURAT PERNYATAAN</h4></td> 
   </tr> 
   <tr>
-    <td width="700" colspan="2" align="center"><h4>MELAKUKAN KEGIATAN PENDIDIKAN DAN PENGAJARAN</h4></td> 
+    <td width="700" colspan="2" align="center"><h4>MELAKSANAKAN KEGIATAN PENGABDIAN PADA MASYARAKAT</h4></td> 
   </tr> 
    
   <tr>

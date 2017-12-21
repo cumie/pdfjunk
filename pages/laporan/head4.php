@@ -119,8 +119,7 @@ $now = date("Y-m-d");
 			<td></td>
 		</tr>
 	</tbody>
-</table>
-<br/>
+</table> 
 <table class="tha">
 	<tr>
 		<td width="20">&nbsp;</td>
@@ -130,5 +129,4 @@ $now = date("Y-m-d");
 		<td width="5">:</td>
 		<td width="890"></td>
 	</tr>
-</table>
-<br/>
+</table> 
