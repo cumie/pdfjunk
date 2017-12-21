@@ -29,7 +29,7 @@ session_start();
     <th width="550" class="tg-baqh" colspan="7">KETERANGAN PERORANGAN</th>
   </tr>
   <tr>
-    <td class="tg-yw4l" width="10">1.</td>
+    <td class="tg-yw4l" width="5">1.</td>
     <td class="tg-yw4l" width="160"	colspan="2">Nama</td>
     <td class="tg-yw4l" colspan="4">FATHUL HAFIDH, S.Kom., M.Kom</td>
   </tr>
@@ -85,7 +85,7 @@ session_start();
     <td class="tg-yw4l" colspan="4"></td>
   </tr>
   <tr>
-    <td class="tg-yw4l">a.baru</td>
+    <td class="tg-yw4l">a.Baru</td>
     <td class="tg-yw4l" colspan="4"></td>
   </tr>
   <tr>

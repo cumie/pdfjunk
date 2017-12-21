@@ -66,10 +66,19 @@ p {
 }
 /* TABLE CUSTOM HANYAR */
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:11px;padding:5px 3px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal; line-height:14px;}
+.tg td{font-family:Arial, sans-serif;font-size:10px;padding:5px 3px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal; line-height:14px;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
 .tg .tg-baqh{text-align:center;vertical-align:top}
 .tg .tg-yw4l{vertical-align:top}
+
+.tk  {border-collapse:collapse;border-spacing:0;}
+.tk td{font-family:Arial, sans-serif;font-size:11px;padding:2px 3px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal; line-height:14px;}
+.kcl{font-size:9px;}
+.k8{font-size:8px;}
+.bold{font-weight:bold;}
+.tk th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tk .tk-baqh{text-align:center;vertical-align:top}
+.tk .tk-yw4l{vertical-align:top}
 
 /*END HANYAR */
 
@@ -276,7 +285,12 @@ input.angkaR {
 	padding: 2px 0px 2px 5px;
 	line-height:14px;
 	
-}
+} 
+.headtab td h4{  
+	line-height:11px;
+	margin-top:0px;
+	
+} 
 .g3 {
 	font-size:24px;
 	padding: -5px 0px;
