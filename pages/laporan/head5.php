@@ -53,7 +53,7 @@ $now = date("Y-m-d");
 
 
   </table>
-<table class="tha" border="0">
+<table class="tha">
 	<tbody>
 		<tr>
 			<td width="10" rowspan="12"></td>
