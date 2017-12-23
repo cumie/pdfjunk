@@ -27,10 +27,10 @@ session_start();
   <tr>
   	<th>NO.</th>
 		<th width="70">KEGIATAN PENUNJANG<br/> TRI DHARMA PERGURUAN TINGI</th>
-		<th width="50">KEDUDKAN/<br/>TINGKAT</th>
-		<th width="50">TEMPAT/<br/>INSTANSI</th>
+		<th width="40">KEDUDKAN/<br/>TINGKAT</th>
+		<th width="40">TEMPAT/<br/>INSTANSI</th>
 		<th width="50">TANGGAL</th>
-    <th width="50">JML. ANGKA<br/>KREDIT</th>
+    <th width="30">JML. ANGKA<br/>KREDIT</th>
     <th width="50">KETERANGAN/<br/>BUKTI FISIK</th>
   </tr>
 	<tr>
@@ -45,7 +45,8 @@ session_start();
 	<tr class="g5">
 		<td class="tisi-baqh bold"></td>
 		<td>
-			<b><u>Menjadi Panitia Dalam Suatu Badan/<br/>Perguruan Tinggi</u></b>
+			<b><u>Menjadi Panitia Dalam 
+	<br/>Suatu Badan/ Perguruan Tinggi</u></b>
 		</td>
 		<td> </td>
 		<td> </td>
@@ -176,6 +177,7 @@ session_start();
   	<td class="tisi-baqh">1</td>
     <td class="tisi-yw4l">Sertifikat Nomor :<br/> Ridam-101/PL-03/VII/2009		
 </td>
+	</tr>
    <tr>
   	<th></th>
 		<th>Jumlah</th>
@@ -185,7 +187,6 @@ session_start();
 		<th>11</th>
     <th></th>
    </tr>
-	</tr>
 </table>
 <?php include('footer4.php');
 ?>

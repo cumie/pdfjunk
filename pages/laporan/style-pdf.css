@@ -100,8 +100,8 @@ p {
 
 /*tisi anjar */
 .tisi {border-collapse:collapse;border-spacing:0;width: 80%;}
-.tisi td{font-family:Arial, sans-serif;font-size: ;padding:3px 3px;border-style:solid;border-width: 1;border: 1;overflow:hidden;word-break:normal; line-height:14px;}
-.tisi th{font-family:Arial, sans-serif;font-size:12px;font-weight:bold;padding:5px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tisi td{font-family:Arial, sans-serif;font-size:11px;padding:3px 3px;border-style:solid;border-width: 1;border: 1;overflow:hidden;word-break:normal; line-height:14px;}
+.tisi th{font-family:Arial, sans-serif;font-size:11px;font-weight:bold;padding:5px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
 .tisi-baqh{text-align:center;vertical-align:top}
 .tisi-yw4l{vertical-align:top}
 /*END anjar */

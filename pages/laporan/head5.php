@@ -7,22 +7,24 @@ $now = date("Y-m-d");
 ?>
 <link href="style-pdf.css" rel="stylesheet" type="text/css" />
 
-<table class="tha" border="0">
+
+<table class="tk">
 	<tbody>
 		<tr>
-			<td width="500" align="right" rowspan="">LAMPIRAN V</td>
-			<td width="120" colspan="3">KEPUTUSAN BERSAMA MENTERI</td>
+			<td width="440" align="right" >LAMPIRAN V</td>
+			<td colspan="3">KEPUTUSAN BERSAMA MENTERI</td>
 		</tr>
 		<tr>
-			<td width="" align="right" rowspan="5"></td>
+		<td rowspan="5"> </td>
 			<td colspan="3">PENDIDIKAN DAN KEBUDAYAAN DAN</td>
 		</tr>
 		<tr>
 			<td colspan="3">KEPALA BADAN KEPEGAWAIAN NEGARA</td>
 		</tr>
 		<tr>
-			<td width="60">NOMOR</td>
-			<td width="5">:</td>
+		
+			<td>NOMOR</td>
+			<td>:</td>
 			<td>61409/MPK/KP/99</td>
 		</tr>
 		<tr>
@@ -40,30 +42,27 @@ $now = date("Y-m-d");
 
 <table class="headtab" align="center" width="760" border="0">
   <tr>
-    <td width="700" colspan="2" align="center"><h4>SURAT PERNYATAAN</h4></td>
-  </tr>
+    <td width="700" colspan="2" align="center"><h4>SURAT PERNYATAAN</h4></td> 
+  </tr>  
   <tr>
     <td width="700" colspan="2" align="center"><h4>MELAKSANAKAN KEGIATAN PENUNJANG TRI DHARMA PERGURUAN TINGGI</h4></td>
-  </tr>
-
+  </tr> 
+   
   <tr>
   <td width="220" align="right"> </td>
   <td>  </td>
-  </tr>
-
-
+  </tr> 
   </table>
-<table class="tha">
+<table class="tk">
 	<tbody>
 		<tr>
-			<td width="10" rowspan="12"></td>
-			<td width="20" colspan="2">Yang Bertanda tangan dibawah ini</td>
+			<td width="180" colspan="2">Yang Bertanda tangan dibawah ini</td>
 			<td width="5">:</td>
-			<td width="1050"></td>
+			<td width="420"></td>
 		</tr>
 		<tr>
 			<td width="10" rowspan="5"></td>
-			<td width="50">Nama</td>
+			<td>Nama</td>
 			<td>:</td>
 			<td><b>SUTRISNO,SE, MM</b></td>
 		</tr>
@@ -118,17 +117,10 @@ $now = date("Y-m-d");
 			<td>:</td>
 			<td>STIE PANCA Setia Banjarmasin</td>
 		</tr>
+		<tr>
+			<td colspan="4">Telah melakukan kegiatan Pendidikan dan Pengajaran sebagai berikut :</td>
+		</tr>
 	</tbody>
 </table>
-<br/>
-<table class="tha">
-	<tr>
-		<td width="20">&nbsp;</td>
-		<td width="50" colspan="2">
-			Telah Melakukan kegiatan Penunjang Tri Dharma Perguruan Tinggi sebagai berikut
-		</td>
-		<td width="5">:</td>
-		<td width="840"></td>
-	</tr>
-</table>
-<br/>
+<br/> 
+ 
